@@ -21,7 +21,7 @@ echo " The total is $total.";
     <body>
         <nav class="navbar navbar-expand-lg sticky-top" style="background-color: #005EB8">
             <div class="container-fluid" style="padding-top: 1rem; padding-bottom: 1.25rem;">
-                <a class="navbar-brand" href="index.php"><span class="brand-text">Mohnson's</span></a>
+                <a class="navbar-brand" href="index.php"><span class="brand-text">Johnson's</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon">></span></button>
                 <div class ="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex flex-row align-items-center me-3">
