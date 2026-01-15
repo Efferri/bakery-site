@@ -1,0 +1,29 @@
+
+.brand-text {
+    font-size: 3.75rem;
+    font-weight: 650;/* bold */
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #ffffff;
+    line-height: 1;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+    display:inline-block;
+}
+.header-text {
+    font-size: 1.5rem;
+    font-weight: 500;/* semi-bold */
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #ffffff;
+    line-height: 1;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+
+}
+.make-white {
+    color: #ffffff;
+}
+/* For later:
+   font-style: italic;
+   text-transform: uppercase;
+*/
